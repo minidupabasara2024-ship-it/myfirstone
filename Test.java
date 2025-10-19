@@ -7,3 +7,15 @@ class TestOne{
    
 
 }
+
+class TestTwo{
+ 
+   run(){
+  
+   }
+   go(){
+
+   }
+
+
+}
