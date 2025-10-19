@@ -1,7 +1,7 @@
 class TestOne{
    public static void main(String args[]){
-
-      System.out.println("myfirstone");
+      TestTwo T=new TestTwo();
+      T.run();
 
    }
    
@@ -11,7 +11,7 @@ class TestOne{
 class TestTwo{
  
    run(){
-  
+      System.out.println("myfirstone");
    }
    go(){
 
